@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a26ab1d-8bbc-49ac-94d3-7246fc1325a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gukqIyzBTHAZLtCBHL3WTlMX5C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ar.edu.untref.dyasc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraTest">
+    <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nombre_de_proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.untref.dyasc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.untref.dyasc" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.untref.dyasc.CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.cuandoSeSuma1Con2SeObtiene3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nombre_de_proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.untref.dyasc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.untref.dyasc" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.untref.dyasc.CalculadoraTest" />
+      <option name="METHOD_NAME" value="cuandoSeSuma1Con2SeObtiene3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.cuandoSeSuman2NumerosElResultadoEsLaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nombre_de_proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.untref.dyasc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.untref.dyasc" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.untref.dyasc.CalculadoraTest" />
+      <option name="METHOD_NAME" value="cuandoSeSuman2NumerosElResultadoEsLaSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.pirulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nombre_de_proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.untref.dyasc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.untref.dyasc" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.untref.dyasc.CalculadoraTest" />
+      <option name="METHOD_NAME" value="pirulo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClaseDeTest.unTestBasico" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nombre_de_proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.untref.dyasc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.untref.dyasc" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.untref.dyasc.ClaseDeTest" />
+      <option name="METHOD_NAME" value="unTestBasico" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraTest" />
+        <item itemvalue="JUnit.CalculadoraTest.cuandoSeSuma1Con2SeObtiene3" />
+        <item itemvalue="JUnit.CalculadoraTest.cuandoSeSuman2NumerosElResultadoEsLaSuma" />
+        <item itemvalue="JUnit.CalculadoraTest.pirulo" />
+        <item itemvalue="JUnit.ClaseDeTest.unTestBasico" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a26ab1d-8bbc-49ac-94d3-7246fc1325a0" name="Default Changelist" comment="" />
+      <created>1598972053055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598972053055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601631704763">
+      <screen x="72" y="27" width="760" height="597" />
+    </state>
+    <state x="72" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.760.597@72.27.760.597" timestamp="1601631704763" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1599514983814">
+      <screen x="0" y="519" width="1366" height="768" />
+    </state>
+    <state width="1878" height="109" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599231488019" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.519.1366.768@0.519.1366.768" timestamp="1599514983814" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.519.1366.768@1366.0.1920.1080" timestamp="1599500235827" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center" timestamp="1599514983813">
+      <screen x="0" y="519" width="1366" height="768" />
+    </state>
+    <state width="1878" height="109" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599231488018" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/1366.0.1920.1080/0.519.1366.768@0.519.1366.768" timestamp="1599514983813" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/1366.0.1920.1080/0.519.1366.768@1366.0.1920.1080" timestamp="1599500235826" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left" timestamp="1599514983813">
+      <screen x="0" y="519" width="1366" height="768" />
+    </state>
+    <state width="1878" height="109" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599231488018" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/1366.0.1920.1080/0.519.1366.768@0.519.1366.768" timestamp="1599514983813" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/1366.0.1920.1080/0.519.1366.768@1366.0.1920.1080" timestamp="1599500235826" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right" timestamp="1599514983814">
+      <screen x="0" y="519" width="1366" height="768" />
+    </state>
+    <state width="1878" height="109" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599231488018" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/1366.0.1920.1080/0.519.1366.768@0.519.1366.768" timestamp="1599514983814" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/1366.0.1920.1080/0.519.1366.768@1366.0.1920.1080" timestamp="1599500235827" />
+    <state width="1878" height="341" key="GridCell.Tab.1.bottom" timestamp="1599159457460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599159457460" />
+    <state width="1878" height="341" key="GridCell.Tab.1.center" timestamp="1599159457459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="341" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599159457459" />
+    <state width="1878" height="341" key="GridCell.Tab.1.left" timestamp="1599159457458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="341" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599159457458" />
+    <state width="1878" height="341" key="GridCell.Tab.1.right" timestamp="1599159457459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="341" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599159457459" />
+    <state x="1830" y="154" key="SettingsEditor" timestamp="1599498744852">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1830" y="154" key="SettingsEditor/1366.0.1920.1080/0.519.1366.768@1366.0.1920.1080" timestamp="1599498744852" />
+    <state x="570" y="128" width="770" height="777" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599158272999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="128" width="770" height="777" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599158272999" />
+  </component>
+</project>

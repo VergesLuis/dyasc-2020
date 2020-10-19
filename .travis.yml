@@ -1,7 +1,4 @@
 language: java
-Corregido el formato yml.
-
-language: java
 script:
 - cd fibo2
 - mvn clean install

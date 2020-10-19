@@ -1,5 +1,10 @@
 package ar.edu.untref.dyasc;
 
+/*****************************
+*@autor: Verges Luis
+*
+*
+******************************/
 public class Fibonacci {
 
     public static void main(String[] args) {

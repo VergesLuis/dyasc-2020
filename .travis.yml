@@ -1,5 +1,9 @@
 language: java
-mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-mvn test -B
-script: mvn clean verify
+Corregido el formato yml.
+
+language: java
+script:
+- cd fibo2
+- mvn clean install
+
 

@@ -1,7 +1,0 @@
-Language: java
-Corregido el formato yml.
-
-language: java
-script:
-- mvn clean install
-

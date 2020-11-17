@@ -1,5 +1,4 @@
 language: java
-script:
 - cd fibo2
 - mvn clean install
 - mvn clean test

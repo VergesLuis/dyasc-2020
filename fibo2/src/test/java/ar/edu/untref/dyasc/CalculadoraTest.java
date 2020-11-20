@@ -14,7 +14,7 @@ public class CalculadoraTest {
 
         Integer resultado = calculadora.sumar(0, 0);
 
-        assertThat(resultado).isEqualTo(0);
+        assertThat(resultado).isEqualTo(1);
 
     }
 
